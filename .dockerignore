@@ -1,0 +1,7 @@
+.git
+.overnight
+data
+__pycache__
+*.pyc
+*.so
+.eval-cache
